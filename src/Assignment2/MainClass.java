@@ -8,7 +8,7 @@ public class MainClass {
 
     public static void main(String[] args) {
 
-        Hospital hospital = new Hospital("Bach Mai");
+        Hospital hospital = new Hospital("Hong Ngoc");
         Scanner scanner = new Scanner(System.in);
         boolean isExit = false;
 
