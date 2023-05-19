@@ -15,7 +15,7 @@ public class MainClass {
         while (!isExit) {
             System.out.println();
             System.out.println("""
-                    =========== Welcome to Bach Mai hospital ===========
+                    =========== Welcome to Hong Ngoc hospital ===========
                     1. Add doctor
                     2. Update doctor
                     3. Delete doctor
